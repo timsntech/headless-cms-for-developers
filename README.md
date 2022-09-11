@@ -47,297 +47,297 @@ If you find information that is not listed correctly, feel free to contribute as
 
 ### Directus
 
-&#128279; https://directus.io/  
-&#9989; Free developer account in cloud version  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/directus
+:link: https://directus.io/  
+:heavy_check_mark: Free developer account in cloud version  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/directus
 
 ---
 
 ### Keystone
 
-&#128279; https://keystonejs.com/  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/keystonejs
+:link: https://keystonejs.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/keystonejs
 
 ---
 
 ### Payload
 
-&#128279; https://payloadcms.com/  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/payloadcms
+:link: https://payloadcms.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/payloadcms
 
 ---
 
 ### Statamic
 
-&#128279; https://statamic.com/  
-&#9989; Open Source version, self-hosted  
-&#9989; Free developer account in cloud version  
-&#10084;&#65039; https://github.com/statamic/cms
+:link: https://statamic.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heavy_check_mark: Free developer account in cloud version  
+:heart: https://github.com/statamic/cms
 
 ---
 
 ### Webiny
 
-&#128279; https://www.webiny.com/  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/webiny
+:link: https://www.webiny.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/webiny
 
 ---
 
 ### TinaCMS
 
-&#128279; https://tina.io/  
-&#9989; Open Source version  
-&#10084;&#65039; https://github.com/tinacms
+:link: https://tina.io/  
+:heavy_check_mark: Open Source version  
+:heart: https://github.com/tinacms
 
 ---
 
 ### Ghost
 
-&#128279; https://ghost.org/  
-&#9989; Open Source version, self-hosted  
-&#10060; Free developer account in cloud version  
-&#10084;&#65039; https://github.com/TryGhost
+:link: https://ghost.org/  
+:heavy_check_mark: Open Source version, self-hosted  
+:x: Free developer account in cloud version  
+:heart: https://github.com/TryGhost
 
 ---
 
 ### Cockpit
 
-&#128279; https://getcockpit.com/  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/agentejo/cockpit
+:link: https://getcockpit.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/agentejo/cockpit
 
 ---
 
 ### Contember
 
-&#128279; https://www.contember.com/  
-&#9989; Open Source version, self-hosted  
-&#10060; Free developer account in cloud version  
-&#10084;&#65039; https://github.com/contember/admin
+:link: https://www.contember.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:x: Free developer account in cloud version  
+:heart: https://github.com/contember/admin
 
 ---
 
 ### CraftCMS
 
-&#128279; https://craftcms.com/  
-&#9989; Open Source version, self-hosted  
-&#9989; Free developer account in cloud version  
-&#10084;&#65039; https://github.com/craftcms
+:link: https://craftcms.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heavy_check_mark: Free developer account in cloud version  
+:heart: https://github.com/craftcms
 
 ---
 
 ### Strapi
 
-&#128279; https://strapi.io/  
-&#9989; Open Source, self-hosted  
+:link: https://strapi.io/  
+:heavy_check_mark: Open Source, self-hosted  
 &#10067; Free developer account (Cloud version coming soon)  
-&#10084;&#65039; https://github.com/strapi
+:heart: https://github.com/strapi
 
 ---
 
 ### ApostropheCMS
 
-&#128279; https://apostrophecms.com/  
-&#9989; Open Source version, self-hosted  
-&#10060; Free developer account  
-&#10084;&#65039; https://github.com/apostrophecms
+:link: https://apostrophecms.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:x: Free developer account  
+:heart: https://github.com/apostrophecms
 
 ---
 
 ### Flextype
 
-&#128279; https://awilum.github.io/flextype/  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/flextype/flextype
+:link: https://awilum.github.io/flextype/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/flextype/flextype
 
 ---
 
 ### Publii
 
-&#128279; https://getpublii.com/  
-&#9989; Open Source, self-hosted  
-&#10084;&#65039; https://github.com/GetPublii/Publii
+:link: https://getpublii.com/  
+:heavy_check_mark: Open Source, self-hosted  
+:heart: https://github.com/GetPublii/Publii
 
 ---
 
 ### Pimcore
 
-&#128279; https://pimcore.com/en  
-&#9989; Open Source version, self-hosted  
-&#10060; Free developer account in cloud version  
-&#10084;&#65039; https://github.com//pimcore/pimcore
+:link: https://pimcore.com/en  
+:heavy_check_mark: Open Source version, self-hosted  
+:x: Free developer account in cloud version  
+:heart: https://github.com//pimcore/pimcore
 
 ---
 
 ### Gentics
 
-&#128279; https://github.com/gentics  
-&#9989; Open Source, self-hosted  
-&#10084;&#65039; https://github.com/gentics/mesh
+:link: https://github.com/gentics  
+:heavy_check_mark: Open Source, self-hosted  
+:heart: https://github.com/gentics/mesh
 
 ---
 
 ### Superdesk
 
-&#128279; https://www.superdesk.org/  
-&#9989; Open Source version, self-hosted  
-&#10060; Free developer account in cloud version  
-&#10084;&#65039; https://github.com/superdesk/superdesk
+:link: https://www.superdesk.org/  
+:heavy_check_mark: Open Source version, self-hosted  
+:x: Free developer account in cloud version  
+:heart: https://github.com/superdesk/superdesk
 
 ---
 
 ### dotCMS
 
-&#128279; https://www.dotcms.com/  
-&#9989; Open Source version, self-hosted  
-&#10060; Free developer account in cloud version  
-&#10084;&#65039; https://github.com/dotCMS/core
+:link: https://www.dotcms.com/  
+:heavy_check_mark: Open Source version, self-hosted  
+:x: Free developer account in cloud version  
+:heart: https://github.com/dotCMS/core
 
 ---
 
 ### Squidex
 
-&#128279; https://squidex.io/  
-&#9989; Free developer account  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/squidex/squidex
+:link: https://squidex.io/  
+:heavy_check_mark: Free developer account  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/squidex/squidex
 
 ---
 
 ### NetlifyCMS
 
-&#128279; https://www.netlifycms.org/  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/netlify/netlify-cms
+:link: https://www.netlifycms.org/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/netlify/netlify-cms
 
 ---
 
 ### Daptin
 
-&#128279; https://daptin.github.io/  
-&#9989; Open Source version, self-hosted  
-&#10084;&#65039; https://github.com/daptin/daptin
+:link: https://daptin.github.io/  
+:heavy_check_mark: Open Source version, self-hosted  
+:heart: https://github.com/daptin/daptin
 
 ---
 
 ### Flotiq
 
-&#128279; https://flotiq.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://flotiq.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Gridly
 
-&#128279; https://www.gridly.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.gridly.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### DatoCMS
 
-&#128279; https://www.datocms.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.datocms.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Sanity
 
-&#128279; https://www.sanity.io/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.sanity.io/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Cosmic
 
-&#128279; https://www.cosmicjs.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.cosmicjs.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### TakeShape
 
-&#128279; https://www.takeshape.io/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.takeshape.io/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Prepr
 
-&#128279; https://prepr.io/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://prepr.io/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Prismic
 
-&#128279; https://prismic.io/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://prismic.io/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Contentful
 
-&#128279; https://www.contentful.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.contentful.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Hygraph (GraphCMS)
 
-&#128279; https://hygraph.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://hygraph.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Storyblok
 
-&#128279; https://www.storyblok.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.storyblok.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### ButterCMS
 
-&#128279; https://buttercms.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://buttercms.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Zesty
 
-&#128279; https://www.zesty.io/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://www.zesty.io/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Dialoguewise
 
-&#128279; https://dialoguewise.com/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://dialoguewise.com/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
 
 ---
 
 ### Kontent
 
-&#128279; https://kontent.ai/  
-&#9989; Free developer account  
-&#10060; Open Source, self-hosted
+:link: https://kontent.ai/  
+:heavy_check_mark: Free developer account  
+:x: Open Source, self-hosted
