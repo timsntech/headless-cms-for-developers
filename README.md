@@ -202,7 +202,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Squidex
 
 :link: https://squidex.io/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :heavy_check_mark: Open Source version, self-hosted  
 :heart: https://github.com/squidex/squidex
 
@@ -227,7 +227,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Flotiq
 
 :link: https://flotiq.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -235,7 +235,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Gridly
 
 :link: https://www.gridly.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -243,7 +243,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### DatoCMS
 
 :link: https://www.datocms.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -251,7 +251,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Sanity
 
 :link: https://www.sanity.io/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -259,7 +259,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Cosmic
 
 :link: https://www.cosmicjs.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -267,7 +267,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### TakeShape
 
 :link: https://www.takeshape.io/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -275,7 +275,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Prepr
 
 :link: https://prepr.io/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -283,7 +283,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Prismic
 
 :link: https://prismic.io/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -291,7 +291,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Contentful
 
 :link: https://www.contentful.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -299,7 +299,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Hygraph (GraphCMS)
 
 :link: https://hygraph.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -307,7 +307,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Storyblok
 
 :link: https://www.storyblok.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -315,7 +315,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### ButterCMS
 
 :link: https://buttercms.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -323,7 +323,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Zesty
 
 :link: https://www.zesty.io/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -331,7 +331,7 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Dialoguewise
 
 :link: https://dialoguewise.com/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
 
 ---
@@ -339,5 +339,5 @@ If you find information that is not listed correctly, feel free to contribute as
 ### Kontent
 
 :link: https://kontent.ai/  
-:heavy_check_mark: Free developer account  
+:heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
