@@ -83,7 +83,7 @@ If you find information that is not listed correctly, feel free to contribute as
 
 :link: https://www.webiny.com/  
 :heavy_check_mark: Open Source version, self-hosted  
-:heart: https://github.com/webiny
+:heart: https://github.com/webiny/webiny-js
 
 ---
 
